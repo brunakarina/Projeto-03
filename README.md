@@ -14,7 +14,7 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
 
-[🔗 Clique aqui para acessar o projeto](https://brunakarina.github.io./projeto-03/)
+[🔗 Clique aqui para acessar o projeto](https://brunakarina.github.io./Projeto-03/)
 
 ## 📫 Contato
 
